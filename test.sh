@@ -1,5 +1,5 @@
 #!/bin/bash
 
 pwd
-is
+id
 free
